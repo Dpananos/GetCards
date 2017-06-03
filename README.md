@@ -4,4 +4,7 @@ Data scientist [Chris Albon](https://chrisalbon.com/) has been posting pictures 
 
 
 # For OSX/Linux
-in case you do not have the modules used in the notebook nor jupyter installed, simply type 'pip install -r module_list.txt' into terminal. Then run the notebook from terminal with 'jupyter notebook Get\ Flashcards.ipynb'
+in case you do not have the modules used in the notebook nor jupyter installed, simply type 
+*'pip install -r module_list.txt'
+ into terminal. Then run the notebook from terminal with
+* 'jupyter notebook Get\ Flashcards.ipynb'
