@@ -2,10 +2,6 @@
 
 Data scientist [Chris Albon](https://chrisalbon.com/) has been posting pictures of his machine learning flash cards [on Twitter](https://twitter.com/chrisalbon?lang=en). This repo uses a [Jupyter](http://jupyter.org/) notebook to download them for convenient viewing.
 
-## Warning
-
-As of April 2019, something has happened to Chris Albon's twitter feed.  The tweepy API, nor the twitter web client, can access past tweets.  This results in substantially fewer cards when running the notebook.  This is not something I can control.  Chris does have the cards on a cron job, so with enough time, this issue will become moot.
-
 
 ## OSX/Linux
 
